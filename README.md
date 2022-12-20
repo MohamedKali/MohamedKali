@@ -1,4 +1,21 @@
-### Hi there 👋
+# BIENVENUE SUR MON PROFILE
+
+
+##   QUI SUIS-JE ?
+
+Je me nomme **Sawadogo Mohamed** Etudiant en 2eme annee d'infomartique a l'universite **Joseph Ki-Zerbo**.   
+Je suis un passionne de l'informatique mais ce que j'aime le plus c'est la cybersecurite,
+Je suis un peu bidouilleur dans mon genre je touche a un peu de tous :  
+- front-end    
+- backend 
+- reseau
+- maintenac
+
+
+
+
+
+
 
 <!--
 **MohamedKali/MohamedKali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
