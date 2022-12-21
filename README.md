@@ -13,6 +13,18 @@ Je suis un peu bidouilleur dans mon genre je touche a un peu de tous :
 
 ## CE QUE JE RECHERCHE
 
+Je suis a la recherche de toutes opportunites me premettant d'approfondie mes competences dans les domaines suivants:
+
+- LA PROGRAMMATION
+- LE RESEAU
+-  LA CYBERSECURITE
+-  LE HACKING
+
+
+## MES COMPETENCES
+
+
+
 
 
 
